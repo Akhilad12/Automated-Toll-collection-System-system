@@ -1,0 +1,11 @@
+SLNo,License Plate,State Code,District Code,Unique Vehicle ID,International Registration Code,phno,Name,Email ID,,TransactionID,Timestamp,,SourceAccountBalance,,DestinationAccount,Amount,TransactionType
+1,294i33185,DL,1,1234,IND,+919019541483,Ganesh,ganesh123@gmial.com,,1001,2023-02-28 10:15:00,,10000,,abc@bank1,500,Debit
+2,CA 455.822,MH,23,5678,IND,+919019541483,dinesh,dinesh145@gmail.com,,1002,2023-02-28 11:30:00,,15000,,def@bank2,750,Credit
+3,KA-9012,KA,1,9012,IND,-7654321007,madan,madan123@gmail.com,,1003,2023-02-28 12:45:00,,8000,,ghi@bank3,300,Debit
+4,TN-3456,TN,34,3456,IND,-6543210896,ravi,ravi167@gmail.com,,1004,2023-02-28 14:00:00,,11000,,mno@bank4,550,Credit
+5,AP-7890,AP,78,7890,IND,-5432109785,raju,raju189@gmail.com,,1005,2023-02-28 15:15:00,,9000,,pqr@bank5,450,Debit
+6,WB-99ST-8901,WB,99,ST-8901,IND,4567890123,ramesh,ramesh567@gmail.com,,1006,2023-02-28 16:30:00,,12000,,stu@bank6,600,Credit
+7,MP-88QR-4567,MP,88,QR-4567,IND,123456789,ramu,ramu788@gamil.com,,1007,2023-02-28 17:45:00,,7000,,vwx@bank7,350,Debit
+8,RJ-77OP-0123,RJ,77,OP-0123,IND,5792468013,guru,guru927@gmail.com,,1008,2023-02-28 19:00:00,,13000,,yz@bank8,650,Credit
+9,UP-66MN-6789,UP,66,MN-6789,IND,8641975320,akhila,akhilad367@gmail.com,,1009,2023-02-28 20:15:00,,6000,,abc@bank9,300,Debit
+10,GJ-55KL-2345,GJ,55,KL-2345,IND,1357924680,vijay,vijay624@gmail.com,,1010,2023-02-28 21:30:00,,14000,,def@bank10,700,Credit

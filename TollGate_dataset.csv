@@ -1,0 +1,11 @@
+SLNo,LicensePlate,State Code,District Code,Unique Vehicle ID,International Registration Code,phno,Name,Email ID,TransactionID,Timestamp,DestinationAccount,Amount,Transaction_Status,TransactionStatus
+1,294i33185,KA,29,3184,IND,9019541483,Ganesh,ganesh123@gmial.com,1001,28-02-2023 10:15,7975519844@ybl,1,success,success
+2,CA 455.822,CA,45,5822,IND,9019541483,dinesh,dinesh145@gmail.com,1002,28-02-2023 11:30,7975519844@ybl,1,pending,
+3,KA-9012,KA,1,9012,IND,917654000000,madan,madan123@gmail.com,1003,28-02-2023 12:45,7975519844@ybl,300,pending,
+4,TN-3456,TN,34,3456,IND,916543000000,ravi,ravi167@gmail.com,1004,28-02-2023 14:00,7975519844@ybl,550,pending,
+5,AP-7890,AP,78,7890,IND,915432000000,raju,raju189@gmail.com,1005,28-02-2023 15:15,7975519844@ybl,450,pending,
+6,WB-99ST-8901,WB,99,8901,IND,914568000000,ramesh,ramesh567@gmail.com,1006,28-02-2023 16:30,7975519844@ybl,600,pending,
+7,MP-88QR-4567,MP,88,4567,IND,91123456789,ramu,ramu788@gamil.com,1007,28-02-2023 17:45,7975519844@ybl,1,pending,
+8,RJ-77OP-0123,RJ,77,123,IND,915792000000,guru,guru927@gmail.com,1008,28-02-2023 19:00,7975519844@ybl,650,pending,
+9,UP-66MN-6789,UP,66,6789,IND,918642000000,akhila,akhila367@gmail.com,1009,28-02-2023 20:15,7975519844@ybl,300,pending,
+10,GJ-55KL-2345,GJ,55,2345,IND,911358000000,vijay,vijay624@gmail.com,1010,28-02-2023 21:30,7975519844@ybl,700,pending,
